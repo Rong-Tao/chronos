@@ -1,0 +1,23 @@
+# Judges 
+3
+# Debaters
+8
+# Name, E for Experinced, J for judge, max 10 letters
+Danniel J
+Danny 
+Dan 
+Dann E
+Dammy E
+Damm E J
+Leon J
+Simon
+Anne I
+Martin
+Effe
+Rijkman
+Willem
+Luka
+chris1
+chris2
+chris3
+chris4
